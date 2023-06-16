@@ -13,7 +13,7 @@ void Summa(int[] array)
         i = i + 2;
     }
 Console.WriteLine($"Сумма элементов на нечётных позициях: {numberSum}");    
-    }
+}
 
 
 
